@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 first line of code-changes being done from local.
-=======
-first line of code-changes being done from github.
->>>>>>> eeec4258bb6b61cc940abe1dbabcc55a8639c774
