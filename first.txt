@@ -1,6 +1,3 @@
 first line of code
-<<<<<<< HEAD
-second line of changes by github
-=======
 second line of code by github
->>>>>>> 94ba6d1e56bf0da0177b5cebfe91af6245e86f1e
+changes done by local
