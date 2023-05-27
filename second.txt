@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-first line of code.
-=======
-first line of code-changes done by github
->>>>>>> dd92fbc2e950d283fa24a2f0e27707b2ecdf07ff
