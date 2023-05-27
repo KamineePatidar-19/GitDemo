@@ -9,5 +9,10 @@ git repo
 pushing first time to github
 adding new line-changes being done from git.
  second line adding
+<<<<<<< HEAD:first.text
 adding somthing
 
+=======
+adding third line
+adding new feature
+>>>>>>> 214ff894d81a77b0a4c80a520df98ed075cbb040:first.texta
