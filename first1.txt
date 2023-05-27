@@ -1,6 +1,2 @@
-first line of code.
-<<<<<<< HEAD
+first line of code.-changes by local
 second line of code in local
-=======
-second line of code
->>>>>>> e8df8fae166915eed37e4c28f9614a5ab451d191
