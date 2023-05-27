@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Adding first line of code-changes being done from local
 adding new feature
 
+=======
+Adding first line of code-changes being done from local.
+adding new feature.
+>>>>>>> bd4d90fc98fd3581a7639d0bbd0d34f5438b8c10
