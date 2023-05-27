@@ -1,2 +1,6 @@
 first line -local changes
+<<<<<<< HEAD
 second line-changes being done from local
+=======
+second line-changes being done from github.
+>>>>>>> 6d8e8b9b4481581cedda7e9d015a2628483625a6
