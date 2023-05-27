@@ -8,11 +8,6 @@ adding new line
 git repo
 pushing first time to github
 adding new line-changes being done from git.
-<<<<<<< HEAD
  second line adding
-
-
-=======
-second line added
 adding third line
->>>>>>> ba2ac51fd860f898f836aad40855bdc6b79ecc12
+
