@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 first line of code.-changes by local.
+=======
+first line of code.-changes done by github
+<<<<<<< HEAD
+>>>>>>> de2fcf346b3fb03bda0e42bcb834ff5d50a9cb6c
 second line of code in local
